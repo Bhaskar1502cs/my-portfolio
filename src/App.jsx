@@ -83,11 +83,11 @@ export default function App() {
       <section id="contact" className="max-w-6xl mx-auto px-4 py-12">
         <h2 className="text-3xl font-bold mb-6">Contact</h2>
         <p className="text-gray-700">
-          Email: <a className="text-blue-600" href="mailto:your.email@example.com">your.email@example.com</a>
+          Email: <a className="text-blue-600" href="mailto:bhaskargowdacs@gmail.com">your.email@example.com</a>
         </p>
         <p className="mt-2">
-          <a className="text-blue-600" href="https://github.com/yourgithub" target="_blank">GitHub</a> ·{" "}
-          <a className="text-blue-600" href="https://linkedin.com/in/yourlinkedin" target="_blank">LinkedIn</a> ·{" "}
+          <a className="text-blue-600" href="https://github.com/Bhaskar1502cs/" target="_blank">GitHub</a> ·{" "}
+          <a className="text-blue-600" href="https://www.linkedin.com/in/bhaskargowdacs" target="_blank">LinkedIn</a> ·{" "}
           <a className="text-blue-600" href="/resume.pdf" target="_blank">Resume (PDF)</a>
         </p>
       </section>
