@@ -1,3 +1,4 @@
+import Skills from "./components/Skills";
 import React from "react";
 import Navbar from "./components/Navbar";
 
@@ -65,19 +66,8 @@ export default function App() {
           </article>
         </div>
       </section>
+      <Skills />
 
-      {/* Skills */}
-      <section id="skills" className="bg-white border-y">
-        <div className="max-w-6xl mx-auto px-4 py-12">
-          <h2 className="text-3xl font-bold mb-6">Skills</h2>
-          <ul className="grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
-            <li className="p-3 rounded-xl border">Java • OOP • Collections</li>
-            <li className="p-3 rounded-xl border">Spring Boot • REST APIs</li>
-            <li className="p-3 rounded-xl border">SQL • MySQL/PostgreSQL</li>
-            <li className="p-3 rounded-xl border">HTML • CSS • JS • React</li>
-          </ul>
-        </div>
-      </section>
 
       {/* Contact */}
       <section id="contact" className="max-w-6xl mx-auto px-4 py-12">
